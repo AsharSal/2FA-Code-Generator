@@ -1,5 +1,7 @@
 # 2FA Code Generator
 
+![Image](https://github.com/user-attachments/assets/f119d854-a1bb-4a7b-b98d-0557caa93299)
+
 A real-time Two-Factor Authentication (2FA) code generator built with React and Express. This application generates time-based one-time passwords (TOTP) from a provided Base32 secret key.
 
 ## Features
